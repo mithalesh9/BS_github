@@ -1,0 +1,2 @@
+- name: BrowserStack Actions
+  uses: browserstack/github-actions@v1.0.1
